@@ -1,0 +1,15 @@
+{
+  "apps": [{
+    "name": "demo-koa2-ts-wechat",
+    "script": "production.js",
+    "cwd": "C:\qiao\demo-koa2-ts-wechat",
+    "exec_mode": "fork",
+    "max_memory_restart": "1G",
+    "autorestart": true,
+    "node_args": [],
+    "args": [],
+    "env": {
+      
+    }
+  }]
+}

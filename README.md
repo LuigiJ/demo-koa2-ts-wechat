@@ -1,2 +1,22 @@
-# demo-koa2-ts-wechat
-使用ts，koa2开发微信项目后端
+
+Application created by [ThinkJS](http://www.thinkjs.org)
+
+## Install dependencies
+
+```
+npm install
+```
+
+## Start server
+
+```
+npm start
+```
+
+## Deploy with pm2
+
+Use pm2 to deploy app on production enviroment.
+
+```
+pm2 startOrReload pm2.json
+```
